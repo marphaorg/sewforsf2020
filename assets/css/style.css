@@ -985,6 +985,22 @@ section {
   border-radius: 50px;
   margin-top: 5px;
 }
+.contact .get-started {
+  margin-top: 60px;
+  margin-left: 120px;
+}
+.contact .get-started a {
+  background: #5777ba;
+  color: #fff;
+  border-radius: 50px;
+  margin: 0 15px;
+  padding: 10px 25px;
+}
+
+.contactenu .get-started a:hover {
+  background: #748ec6;
+  color: #fff;
+}
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #5777ba;
